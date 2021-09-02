@@ -11,4 +11,4 @@ require('../../js/popover.js')
 require('../../js/scrollspy.js')
 require('../../js/tab.js')
 require('../../js/affix.js')
-© 2021 GitHub, Inc.
+
